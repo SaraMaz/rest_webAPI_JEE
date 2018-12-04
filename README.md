@@ -27,6 +27,15 @@ Ce projet est fait sous Netbeans IDE 8.2, c'est une application web dynamique ou
 <p>
   <img align="center" src="https://user-images.githubusercontent.com/20047882/49411584-c0054e00-f769-11e8-9b84-68605c2f767a.PNG">
 </p>
+* Modifier l'utilisateur 
+<p>
+  <img align="center" src="https://user-images.githubusercontent.com/20047882/49411600-cdbad380-f769-11e8-94b3-8d73e441dc76.PNG">
+</p>
+<p>
+  <img align="center" src="https://user-images.githubusercontent.com/20047882/49411618-d7dcd200-f769-11e8-8a9e-82fd1008b96f.PNG">
+</p>
+
+
 # Technologies et outils
 * Netbeans IDE 8.2.
 * JDK 1.8
